@@ -1,5 +1,8 @@
 # lcmap-rachel
-Real-time Acquisition Change Evaluation
+#### Real-time Acquisition Change Evaluation
+
+A research and development project to map continuous change detections
+beyond the end dates of stable pyccd models.
 
 Versioning
 ----------
