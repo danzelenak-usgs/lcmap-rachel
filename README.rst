@@ -41,6 +41,8 @@ For more information, please refer to http://unlicense.org.
 
 Installation
 ------------
-- Create a virtual environment ::
-    pip install -e .
+- Create a virtual environment
+  `pip install -e .` 
+ 
+
 
